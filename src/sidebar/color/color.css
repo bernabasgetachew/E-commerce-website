@@ -1,0 +1,11 @@
+.all {
+    background: linear-gradient(blue, crimson);
+  }
+.color-title{
+  font-weight: lighter;
+  margin-top: 20px;
+}
+
+.color{
+  margin-top: 20px;
+}
